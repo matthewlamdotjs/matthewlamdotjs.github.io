@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Matthew Lam",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://mattlammmmm.github.io/mattlammmmm.github.io/images/MattPic.jpg",
+    "email": "mwklam@hawaii.edu",
+    "phone": "808-206-4587",
+    "website": "https://mattlammmmm.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mattlammmmm",
+        "url": "http://github.com/mattlammmmm"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mattlammmmm",
+        "url": "http://linkedin.com/in/mattlammmmm"
       }
     ]
   },
@@ -66,7 +56,8 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Ruby",
+        "Rails"
       ]
     },
     {
