@@ -21,7 +21,7 @@ My script is written in Python, one of my favorite languages for its ease-of-use
 
 As I scrambled to create a quick project for my folio, I remembered my friend asking me how one could download an image from Instagram. On both the mobile and desktop app there is no download button and each image is presented in such a way that you cannot "right click" on the image or "click and drag". Naturally, I used my Chrome devtools to inspect a picture on instagram. After feeling my way around the html I found what I was looking for- an img tag with the src of the original image. Being conveniently wrapped in the only div with the class "_4rbun" (making it unique), I assumed that this is how I would find the img tag and subsequently the img src. I double checked on other Instagram pages and other pictures to confirm that this was virtually true in all cases.
 
-<img class="ui medium right floated rounded image" src="../images/InstagramDownload2.png">
+<img class="ui medium left floated rounded image" src="../images/InstagramDownload2.png">
 
 Upon finding my "solution" I immediately thought this was pretty straightforward. I would use urllib2 to grab the html from the page and find() the div with class: "_4rbun". However when I called find() it returned an empty list! Attempting to figure out why this was happening I replaced "_4rbun" with the class of the parent div and then that div's parent and repeated this many times until finally I reached a span element with the id "react-root". Bingo, my answer was there- the image was being rendered by js so the div I was looking for didn't exist in the html file! After this I knew I had to actually load the page to get to what I wanted and the rest was easy.
   
