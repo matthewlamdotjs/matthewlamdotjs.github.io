@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Vigenère_square_shading.svg
+image: images/vigenere.png
 title: Vigenere
 permalink: projects/vigenere
 # All dates must be YYYY-MM-DD format!
