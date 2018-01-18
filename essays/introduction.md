@@ -15,7 +15,7 @@ labels:
 
 
 
-## Software Development VS. Computer Science
+## Software Development vs. Computer Science
 
 
 
