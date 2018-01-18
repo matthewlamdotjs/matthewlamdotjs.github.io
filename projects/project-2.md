@@ -26,3 +26,5 @@ As I scrambled to create a quick project for my folio, I remembered my friend as
 Upon finding my "solution" I immediately thought this was pretty straightforward. I would use urllib2 to grab the html from the page and find() the div with class: "_4rbun". However find() returned an empty list! Attempting to figure out why this was happening I replaced "_4rbun" with the class of the parent div and did so many times until finally I reached a span element <span id="react-root">. Bingo, my answer was there- the image was being rendered by js so the div I was looking for didn't exist in the html file! After this I knew I had to actually load the page to get to what I wanted and the rest was easy.
   
 This small project was a good reminder that I need to brush up on my skills since I haven't been in school for three years until this semester.
+
+Source Code: https://github.com/mattlammmmm/instagram_download
