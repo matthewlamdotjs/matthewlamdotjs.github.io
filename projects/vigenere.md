@@ -33,6 +33,28 @@ After performing modulo, it was necessary to add back the 32 in order to print t
 
 Decrypting involves the same processes but instead of adding the values, you subtract the key char value.
 
+```
+def encrypt(key, msg):
+	msg_out = ''
+
+	for i, c in enumerate(msg):
+		numeric = (ord(c)+ord(key[i%len(key)])-32) % 94
+		out_char = chr(numeric+32)
+		msg_out += out_char
+
+	return msg_out
+
+def decrypt(key, msg):
+	msg_out = ''
+
+	for i, c in enumerate(msg):
+		numeric = (ord(c)-ord(key[i%len(key)])-32) % 94
+		out_char = chr(numeric+32)
+		msg_out += out_char
+
+	return msg_out
+```
+
 This small project made me more familiar with ASCII values and was also a good excercise in representing Math with code.
 
 
