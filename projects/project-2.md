@@ -27,4 +27,4 @@ Upon finding my "solution" I immediately thought this was pretty straightforward
   
 This small project was a good reminder that I need to brush up on my skills since I haven't been in school for three years until this semester.
 
-Source Code: https://github.com/mattlammmmm/instagram_download
+Source Code: <a href="https://github.com/mattlammmmm/instagram_download">https://github.com/mattlammmmm/instagram_download</a>
