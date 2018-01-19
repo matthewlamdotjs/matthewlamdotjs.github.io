@@ -16,7 +16,7 @@ In my first year as a computer science student, I did a rudimentary implementati
 
 For those who aren't familiar, a Vigenere cipher encodes text using a key where the key repeats no longer than the message length. From there each character's place in the alphabet is shifted based on place of the corresponding key character in the alphabet. This can be represented mathematically as the sum of the two values. You can read more <a href="https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher">here</a>.
 
-<img src="../images/vigenere.jpg" width="600" align="middle">
+<img src="../images/vigenere.jpg" width="650" align="middle">
 
 One of the first challenges I had here was being able to keep the char values in the range I wanted. My original code for encrypting a single char looked something like this:
 
