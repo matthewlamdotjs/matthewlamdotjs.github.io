@@ -16,11 +16,11 @@ Having read "How To Ask Questions The Smart Way" by Eric Steven Raymond, his gui
 
 ## Sorted and Unsorted Arrays
 
-If you search all questions in StackOverflow and sort by votes, you will find in the following question at number one: <a href=https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array>. It is a question that you won't find the answer to in C++ documentation and requires a deeper understanding of processor architechture (this is the start to forming a smart question). Additionally, the user asking this question shows their work, showing that they have tried to execute his code in multiple ways, states what he knows and what he does not know. As a result of his effort, his question is met with a multitude of great answers from enthusiastic individuals. This is an example of a Smart Question and its reward.
+If you search all questions in StackOverflow and sort by votes, you will find in the following question at number one: <a href=https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array>Why is it faster to process a sorted array than an unsorted array?</a>. It is a question that you won't find the answer to in C++ documentation and requires a deeper understanding of processor architechture (this is the start to forming a smart question). Additionally, the user asking this question shows their work, showing that they have tried to execute his code in multiple ways, states what he knows and what he does not know. As a result of his effort, his question is met with a multitude of great answers from enthusiastic individuals. This is an example of a Smart Question and its reward.
 
 ## How to Send 100,000 emails weekly
 
-At <a href=https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly>, you will find a very bad question asking how to send 100,000 emails a week using PHP. There are no references to research or problems encountered in attempts to solve the problem. It seems that this user is asking for someone else to do his work and give a code snippet that can be simply copied and pasted. Furthermore, the question was off topic for the forum it was posted in. 
+At <a href=https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly>How to send 100,000 emails weekly?</a>, you will find a very bad question asking how to send 100,000 emails a week using PHP. There are no references to research or problems encountered in attempts to solve the problem. It seems that this user is asking for someone else to do his work and give a code snippet that can be simply copied and pasted. Furthermore, the question was off topic for the forum it was posted in. 
 
 ## Findings
 
