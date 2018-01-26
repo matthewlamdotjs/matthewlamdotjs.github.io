@@ -24,4 +24,4 @@ At https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly
 
 ## Findings
 
-why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof)
+Now that we have explored a good and bad example of a Smart Question, we can discuss why Smart Questions are important for smart software engineers. It is safe to assume that a smart software engineer will have these goals in mind: solving problems efficiently and being able to explain things clearly. Solving problems efficiently can be aided by an ability to ask smart questions.
