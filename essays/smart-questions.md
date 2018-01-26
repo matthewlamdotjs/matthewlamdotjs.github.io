@@ -10,3 +10,5 @@ labels:
 ---
 
 ## Prequisites 
+
+Having read "How To Ask Questions The Smart Way" by Eric Steven Raymond, his guidelines for asking a smart question appear to revolve around doing your research. This means exploring every possible avenue available before asking an expert. A show of respect goes a long way in asking a question and is a prerequisite to asking a Smart Question.
