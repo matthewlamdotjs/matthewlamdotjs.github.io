@@ -10,7 +10,7 @@ labels:
 
 ## Setup 
 
-I'm going to be frank here. Setting up ESLint was not as straightforward as I had originally thought and the benefit is not clear to me yet as I haven't been using it for an extended period of time.
+Many believe in tools such as ESLint for exercising good coding standards. Some even argue that it improves the learning of a new Language. I'm going to be frank here- setting up ESLint was not as straightforward as I had originally thought and the benefit is not clear to me yet as I haven't been using it for an extended period of time. So far it has only been a pain for me and all I have to show from it is how many spaces to indent and that I'm wrong in using double quotes for strings.
 
 ## Coding Standards for Learning
 
