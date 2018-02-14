@@ -59,3 +59,5 @@ This small project made me more familiar with ASCII values and was also a good e
 
 
 Source Code: <a href="https://github.com/mattlammmmm/vigenere">https://github.com/mattlammmmm/vigenere</a>
+
+**UPDATE: you can see the finished project with GUI <a href="https://mattlammmmm.github.io/vigenere/">here</a>.
