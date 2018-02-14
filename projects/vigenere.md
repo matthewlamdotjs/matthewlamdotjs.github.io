@@ -11,6 +11,7 @@ labels:
   - Cryptography
 summary: Encrypting text with a Vigenere cipher.
 ---
+UPDATE!: you can see the finished project with GUI <a href="https://mattlammmmm.github.io/vigenere/">here</a>.
 
 In my first year as a computer science student, I did a rudimentary implementation on a Vigenere cipher (using only letters A-F ignoring case) in Java. In an attempt to have more practical use, I modified my design to use an alphabet of printable ASCII characters not to include special characters (chars 32-126) and this time implemented the cipher using Python.
 
@@ -59,5 +60,3 @@ This small project made me more familiar with ASCII values and was also a good e
 
 
 Source Code: <a href="https://github.com/mattlammmmm/vigenere">https://github.com/mattlammmmm/vigenere</a>
-
-**UPDATE: you can see the finished project with GUI <a href="https://mattlammmmm.github.io/vigenere/">here</a>.
