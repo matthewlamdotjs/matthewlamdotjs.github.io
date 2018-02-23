@@ -7,7 +7,6 @@ date: 2018-02-22
 labels:
   - Semantic
   - Bootstrap
-  - UI Frameworks
 ---
 
 ## Back-end Perspective
