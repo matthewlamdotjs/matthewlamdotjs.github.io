@@ -9,7 +9,7 @@ labels:
   - Meteor
 ---
 
-## Overview (including “The problem” and “The solution”)
+## Overview
 
 Students taking a foreign language often don't have fluent speakers to practice with. The solution is an online social networking site that aims to connect international students that are fluent in a foreign language with those studying that foreign language at UH.
 
