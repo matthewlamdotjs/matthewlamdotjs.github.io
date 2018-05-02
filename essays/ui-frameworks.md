@@ -10,9 +10,6 @@ labels:
 ---
 
 ## Back-end Perspective
-<img src="http://s32.postimg.org/6vawu4hdh/Untitled_design_10.png" style="width: 400px;">
-
-image source: <a href="http://blog.builtinnode.com/post/javascript-as-a-backend-language">http://blog.builtinnode.com/post/javascript-as-a-backend-language</a>
 
 I've never liked front-end development. This is partially because I've never been particularly good at it and I often consider it more of work for an artist with technical knowledge. As someone who feels they are more suited for back-end development, the availability of various UI Frameworks is enticing and quite a relief when tackling an entire project solo.
 
