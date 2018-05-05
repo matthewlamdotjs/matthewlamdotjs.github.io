@@ -14,4 +14,4 @@ labels:
 summary: A stack overflow style forum providing questions with context for computer science courses at the University of Hawaii Manoa.
 ---
 
-<iframe src='https://gotsurf.github.io/manoa-overflow/'/>
+<iframe style='width: 640px; height: 100%;' src='https://gotsurf.github.io/manoa-overflow/'/>
