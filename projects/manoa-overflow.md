@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ManoaOverflow.png
 title: Manoa Overflow
-permalink: projects/instagram_download
+permalink: projects/manoa-overflow
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-05
 labels:
