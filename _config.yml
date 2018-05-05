@@ -28,3 +28,5 @@ include: [_data]
 # Use this to make sure page builds all updates
 future: true
 
+
+theme: jekyll-theme-hacker
