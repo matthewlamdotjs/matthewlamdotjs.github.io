@@ -2,10 +2,10 @@
   "basics": {
     "name": "Matthew Lam",
     "label": "Student",
-    "picture": "https://mattlammmmm.github.io/mattlammmmm.github.io/images/MattPic.jpg",
+    "picture": "https://matthewlamdotjs.github.io/matthewlamdotjs.github.io/images/MattPic.jpg",
     "email": "mwklam@hawaii.edu",
     "phone": "808-206-4587",
-    "website": "https://mattlammmmm.github.io",
+    "website": "https://matthewlamdotjs.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mattlammmmm",
-        "url": "http://github.com/mattlammmmm"
+        "username": "matthewlamdotjs",
+        "url": "http://github.com/matthewlamdotjs"
       },
       {
         "network": "linkedin",
-        "username": "mattlammmmm",
-        "url": "http://linkedin.com/in/mattlammmmm"
+        "username": "matthewlamdotjs",
+        "url": "http://linkedin.com/in/matthewlamdotjs"
       }
     ]
   },

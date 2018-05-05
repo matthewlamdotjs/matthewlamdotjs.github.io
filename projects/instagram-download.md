@@ -5,7 +5,7 @@ image: images/InstagramDownload.png
 title: Instagram Download
 permalink: projects/instagram_download
 # All dates must be YYYY-MM-DD format!
-date: 2018-1-17
+date: 2018-01-17
 labels:
   - Python
   - HTML
@@ -25,6 +25,6 @@ I remembered my friend asking me how one could download an image from Instagram.
 
 Upon finding my "solution" I immediately thought this was pretty straightforward. I would use urllib2 to grab the html from the page and find() the div with class: "_4rbun". However when I called find() it returned an empty list! Attempting to figure out why this was happening I replaced "_4rbun" with the class of the parent div and then that div's parent and repeated this many times until finally I reached a span element with the id "react-root". Bingo, my answer was there- the image was being rendered by js so the div I was looking for didn't exist in the html file! After this I knew I had to actually load the page to get to what I wanted and the rest was easy.
   
-Eventually I re-wrote the url grabbing in JS using an entirely different method as well as adding a GUI so I could put it on the web. You can see the final product <a href="https://mattlammmmm.github.io/instagram_download/">here</a>.
+Eventually I re-wrote the url grabbing in JS using an entirely different method as well as adding a GUI so I could put it on the web. You can see the final product <a href="https://matthewlamdotjs.github.io/instagram_download/">here</a>.
 
-Source Code: <a href="https://github.com/mattlammmmm/instagram_download">https://github.com/mattlammmmm/instagram_download</a>
+Source Code: <a href="https://github.com/matthewlamdotjs/instagram_download">https://github.com/matthewlamdotjs/instagram_download</a>

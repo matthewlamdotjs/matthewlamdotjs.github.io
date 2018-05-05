@@ -5,13 +5,13 @@ image: images/vigenere.png
 title: Vigenere
 permalink: projects/vigenere
 # All dates must be YYYY-MM-DD format!
-date: 2018-1-18
+date: 2018-01-18
 labels:
   - Python
   - Cryptography
 summary: Encrypting text with a Vigenere cipher.
 ---
-UPDATE!: you can see the finished project with GUI <a href="https://mattlammmmm.github.io/vigenere/">here</a>.
+UPDATE!: you can see the finished project with GUI <a href="https://matthewlamdotjs.github.io/vigenere/">here</a>.
 
 In my first year as a computer science student, I did a rudimentary implementation on a Vigenere cipher (using only letters A-F ignoring case) in Java. In an attempt to have more practical use, I modified my design to use an alphabet of printable ASCII characters not to include special characters (chars 32-126) and this time implemented the cipher using Python.
 
@@ -59,4 +59,4 @@ def decrypt(key, msg):
 This small project made me more familiar with ASCII values and was also a good excercise in representing Math with code.
 
 
-Source Code: <a href="https://github.com/mattlammmmm/vigenere">https://github.com/mattlammmmm/vigenere</a>
+Source Code: <a href="https://github.com/matthewlamdotjs/vigenere">https://github.com/matthewlamdotjs/vigenere</a>
