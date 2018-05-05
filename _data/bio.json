@@ -3,7 +3,7 @@
     "name": "Matthew Lam",
     "label": "Student",
     "picture": "https://matthewlamdotjs.github.io/matthewlamdotjs.github.io/images/MattPic.jpg",
-    "email": "mwklam@hawaii.edu",
+    "email": "matthewlam.js@gmail.com",
     "phone": "808-206-4587",
     "website": "https://matthewlamdotjs.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
@@ -56,7 +56,10 @@
         "Assembly",
         "Ruby",
         "Rails",
-        "Python"
+        "Python",
+        "React JS",
+        "Meteor JS",
+        "Semantic UI"
       ]
     },
     {
